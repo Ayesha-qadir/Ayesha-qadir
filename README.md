@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ayeshaqadir576@gmail.com**
 
-- 📄 Know about my experiences [I am a web developer with 3 years of experience in the industry. I have a strong understanding of HTML, CSS, and JavaScript, and I am proficient in a variety of back-end languages, including PHP, and MYSQL.I am passionate about creating user-friendly and engaging web applications. I am also skilled at working with clients to understand their needs and deliver solutions that meet their requirements.](I am a web developer with 3 years of experience in the industry. I have a strong understanding of HTML, CSS, and JavaScript, and I am proficient in a variety of back-end languages, including PHP, and MYSQL.I am passionate about creating user-friendly and engaging web applications. I am also skilled at working with clients to understand their needs and deliver solutions that meet their requirements.)
+- 📄 Know about my experiences [I am a web developer with 3 years of experience in the industry. I have a strong understanding of HTML, CSS, and JavaScript, and I am proficient in a variety of back-end languages, including PHP, and MYSQL.I am passionate about creating user-friendly and engaging web applications. I am also skilled at working with clients to understand their needs and deliver solutions that meet their requirements.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
